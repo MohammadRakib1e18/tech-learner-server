@@ -15,6 +15,7 @@ app.get("/courses", (req, res) => {
   res.send(courses);
 });
 
+// get category based data
 app.get("/courses/category/:id", (req, res) => {
   const id = req.params.id;
 
@@ -22,6 +23,7 @@ app.get("/courses/category/:id", (req, res) => {
   res.send(category_courses);
 });
 
+// get single course data
 app.get("/courses/course/:id", (req, res) => {
   const id = req.params.id;
   const course = courses.find((n) => n._id === id);
@@ -29,6 +31,7 @@ app.get("/courses/course/:id", (req, res) => {
   console.log("Hello: ", course);
 });
 
+// testing the server
 app.listen(port, () => {
   console.log("Tech Learner Server running on port", port);
 });
