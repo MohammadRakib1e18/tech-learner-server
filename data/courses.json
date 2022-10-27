@@ -2,6 +2,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a01",
     "category_id": "1",
+    "category_name":"Javascript",
     "rating": 4.5,
     "total_view": 488,
     "title": "Javascript for Beginners",
@@ -15,6 +16,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a02",
     "category_id": "1",
+    "category_name": "Javascript",
     "rating": 4.7,
     "total_view": 485,
     "title": "Javascript for Beginners",
@@ -28,6 +30,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a03",
     "category_id": "2",
+    "category_name": "Web Development",
     "rating": 4.3,
     "total_view": 495,
     "title": "Full-Stack Web Development with React",
@@ -41,6 +44,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a04",
     "category_id": "1",
+    "category_name": "Javascript",
     "rating": 4.8,
     "total_view": 495,
     "title": "JavaScript, jQuery, and JSON",
@@ -54,6 +58,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a05",
     "category_id": "2",
+    "category_name": "Web Development",
     "rating": 4.8,
     "total_view": 775,
     "title": "Introduction to Web Development",
@@ -67,6 +72,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a06",
     "category_id": "3",
+    "category_name": "Python",
     "rating": 4.6,
     "total_view": 675,
     "title": "Python for Data Science",
@@ -80,6 +86,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a07",
     "category_id": "3",
+    "category_name": "Python",
     "rating": 4.6,
     "total_view": 975,
     "title": "Python and Statistics",
@@ -93,6 +100,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a08",
     "category_id": "4",
+    "category_name": "Information & Technology",
     "rating": 4.2,
     "total_view": 575,
     "title": "Information Technology (IT)",
@@ -106,6 +114,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a09",
     "category_id": "5",
+    "category_name": "Machine Learning",
     "rating": 4.6,
     "total_view": 1075,
     "title": "IBM Machine Learning Professional",
@@ -119,6 +128,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a010",
     "category_id": "5",
+    "category_name": "Machine Learning",
     "rating": 4.6,
     "total_view": 1075,
     "title": "Mathematics for Machine Learning",
@@ -132,6 +142,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a011",
     "category_id": "6",
+    "category_name": "Operating System",
     "rating": 4.4,
     "total_view": 975,
     "title": "Linux System Programming and Introduction to Buildroot",
@@ -145,6 +156,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a012",
     "category_id": "6",
+    "category_name": "Operating System",
     "rating": 4.4,
     "total_view": 875,
     "title": "Introduction to Operating Systems",
@@ -158,6 +170,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a013",
     "category_id": "7",
+    "category_name": "Cyber Security",
     "rating": 4.2,
     "total_view": 575,
     "title": "IBM Cybersecurity Analyst Professional Certificate",
@@ -171,6 +184,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a014",
     "category_id": "7",
+    "category_name": "Cyber Security",
     "rating": 4.4,
     "total_view": 875,
     "title": "Introduction to Cyber Security",
