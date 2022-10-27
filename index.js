@@ -19,8 +19,14 @@ app.get("/courses/category/:id", (req, res) => {
   const id = req.params.id;
 
   const category_courses = courses.filter((n) => n.category_id === id);
-  console.log(category_courses);
   res.send(category_courses);
+});
+
+app.get("/courses/course/:id", (req, res) => {
+  const id = req.params.id;
+  const course = courses.find((n) => n._id === id);
+  res.send(course);
+  console.log("Hello: ", course);
 });
 
 app.listen(port, () => {
